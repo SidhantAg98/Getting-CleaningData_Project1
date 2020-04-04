@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Week-4-Assignment
+# Getting And Cleaning Data Project 1
 
 This repository containst the submission for the assignment for week 4 of Getting and Cleaning Data Coursera course.
 •First, download and unzip the data file into your R working directory.
